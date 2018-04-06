@@ -1,0 +1,15 @@
+current directory: /Users/Ryuton/Projects/Ruby/rtkwsk/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/Ryuton/.rbenv/versions/2.4.3/bin/ruby -r ./siteconf20180407-7284-z49afq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Ryuton/Projects/Ruby/rtkwsk/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/Ryuton/Projects/Ruby/rtkwsk/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/Ryuton/Projects/Ruby/rtkwsk/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180407-7284-1hdtn92/bindex
